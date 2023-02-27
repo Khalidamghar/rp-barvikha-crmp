@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdI9a4.jpg",
+      "title": "barvikha crmp 1",
+        "text_Content": "RP Barvikha CRMP, also known as Russian Project Barvikha, is a popular roleplaying server on the multiplayer game platform San Andreas Multiplayer (SA-MP). The server is based on the criminal underworld of Moscow and offers players a vast and immersive virtual world to explore and engage in various activities.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdI3w7.jpg",
+      "title": "barvikha crmp 2",
+        "text_Content": "The server was founded in 2012 and has since grown to become one of the largest and most active RP servers in the SA-MP community. RP Barvikha CRMP is unique in that it offers a level of realism and attention to detail that is unmatched by many other RP servers. The server's team of developers and administrators work tirelessly to ensure that the server remains up-to-date and offers players the best possible gaming experience.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdIFt9.jpg",
+      "title": "barvikha crmp 3",
+        "text_Content": "The server was founded in 2012 and has since grown to become one of the largest and most active RP servers in the SA-MP community. RP Barvikha CRMP is unique in that it offers a level of realism and attention to detail that is unmatched by many other RP servers. The server's team of developers and administrators work tirelessly to ensure that the server remains up-to-date and offers players the best possible gaming experience.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdI2uS.jpg",
+      "title": "barvikha crmp 4",
+        "text_Content": "RP Barvikha CRMP offers players a vast virtual world to explore, with many different areas to visit and activities to engage in. The server is based on the criminal underworld of Moscow, and players are able to choose between various factions, including the police, the mafia, and various street gangs.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdIqMu.jpg",
+      "title": "barvikha crmp 5",
+        "text_Content": "Players can engage in a variety of activities, including robbing banks, selling drugs, and engaging in turf wars. The server also offers a comprehensive economic system, with players able to purchase properties, businesses, and vehicles. Players are also able to interact with one another in various ways, such as forming alliances, conducting business transactions, and engaging in social activities.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdIx8Q.jpg",
+      "title": "barvikha crmp 6",
+        "text_Content": "Players can engage in a variety of activities, including robbing banks, selling drugs, and engaging in turf wars. The server also offers a comprehensive economic system, with players able to purchase properties, businesses, and vehicles. Players are also able to interact with one another in various ways, such as forming alliances, conducting business transactions, and engaging in social activities.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdInFj.jpg",
+      "title": "barvikha crmp 7",
+        "text_Content": "Players can engage in a variety of activities, including robbing banks, selling drugs, and engaging in turf wars. The server also offers a comprehensive economic system, with players able to purchase properties, businesses, and vehicles. Players are also able to interact with one another in various ways, such as forming alliances, conducting business transactions, and engaging in social activities.",
+        "text_Content_1": ""
 
 
 
